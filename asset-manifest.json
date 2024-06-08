@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/codesocial-react-workshop/static/js/main.1e20998c.js",
+    "static/js/453.d29ed9d0.chunk.js": "/codesocial-react-workshop/static/js/453.d29ed9d0.chunk.js",
+    "index.html": "/codesocial-react-workshop/index.html",
+    "main.1e20998c.js.map": "/codesocial-react-workshop/static/js/main.1e20998c.js.map",
+    "453.d29ed9d0.chunk.js.map": "/codesocial-react-workshop/static/js/453.d29ed9d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e20998c.js"
+  ]
+}
